@@ -109,7 +109,7 @@ class EmployeeForm
                                 'applicant' => 'Applicant',
                                 'trainee'   => 'Trainee',
                                 'active'    => 'Active',
-                                'x'         => 'Inactive'
+                                'inactive'  => 'Inactive'
                             ]),
                         DatePicker::make('start_date'),
                         DatePicker::make('end_date'),
